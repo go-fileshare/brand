@@ -58,5 +58,5 @@ otherwise be kept by remembering it.
 
 ## Licence
 
-The marks are the organisation's own work, released under BSD-3-Clause with
-the code they brand.
+The marks are the organisation's own work, released under BSD-3-Clause
+([LICENSE](LICENSE)) with the code they brand.
